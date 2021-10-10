@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb12e3ad1486e2e4496d2933bc2e5456, type: 3}
+  m_Name: ProTipsScriptable
+  m_EditorClassIdentifier: 
+  _list:
+  - Oops, you died ! Guess it's time for a new run ? Or maybe you take take a small
+    break because your performance was kind of disappointing to be honest.
+  - 'Pro Tips : When your health reach 0, you die ! Simple as that'
+  - 'Pro Tips : Healing sources are scarce in the dungeon, try to evade enemy attacks
+    as much as possible with dodges (Left Shift) and Jump (Space bar)'
+  - 'Pro Tips : Don''t forget that you have a melee weapon and a range weapon in
+    your arsenal. Both assigned to a mouse button'
+  - 'Pro Tips : Bash (R button) gives you access to previously innaccessible places.'
+  - 'Pro Tips : Bash (R button) gives you access to previously innaccessible places.'
+  - Whoops, you didn't see that strike coming ? Really ?
+  - Come on, you can do better than that.
+  - Well my expectations about you were already on the ground but it seems that you
+    brought a shovel with you.
